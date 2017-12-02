@@ -12,5 +12,5 @@ $ node index.js
 then, access http://localhost:3000/docs
 
 
-## great referrence
+## great reference
 https://cloud.google.com/endpoints/docs/openapi/adding-swagger
